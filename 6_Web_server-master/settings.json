@@ -1,0 +1,14 @@
+{
+    "port": 80,
+    "second_port": 8080,
+    "dir": "index",
+    "max_byte": 131072,
+    "sample": "HTTP/1.1 {} {}\nServer: SelfMadeServer v0.0.1\nDate: {}\nContent-Type: {}; charset=utf-8\nContent-Length: {}\nConnection: keep-alive\n\n",
+    "Forbidden": 403,
+    "OK":200,
+    "Not Found": 404,
+    "html": "text/html",
+    "css": "text/css",
+    "js": "text/js",
+    "png": "image/png"
+}

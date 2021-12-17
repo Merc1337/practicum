@@ -1,0 +1,135 @@
+Fri, 17 Dec 2021 20:33:59 GMT
+192.168.1.33
+index.html
+200
+
+Fri, 17 Dec 2021 20:33:59 GMT
+192.168.1.33
+favicon.ico
+404
+
+Fri, 17 Dec 2021 20:34:02 GMT
+127.0.0.1
+home.html
+200
+
+Fri, 17 Dec 2021 20:34:02 GMT
+127.0.0.1
+python.png
+200
+
+Fri, 17 Dec 2021 20:36:00 GMT
+127.0.0.1
+favicon.ico
+404
+
+Fri, 17 Dec 2021 20:36:02 GMT
+127.0.0.1
+home.html
+200
+
+Fri, 17 Dec 2021 20:36:26 GMT
+192.168.1.33
+index.html
+200
+
+Fri, 17 Dec 2021 20:36:28 GMT
+127.0.0.1
+home.html
+200
+
+Fri, 17 Dec 2021 20:36:28 GMT
+127.0.0.1
+python.png
+200
+
+Fri, 17 Dec 2021 20:36:47 GMT
+127.0.0.1
+home.html
+200
+
+Fri, 17 Dec 2021 20:36:47 GMT
+127.0.0.1
+python.png
+404
+
+Fri, 17 Dec 2021 20:36:49 GMT
+127.0.0.1
+favicon.ico
+404
+
+Fri, 17 Dec 2021 20:36:59 GMT
+192.168.1.33
+index.html
+200
+
+Fri, 17 Dec 2021 20:37:01 GMT
+127.0.0.1
+home.html
+200
+
+Fri, 17 Dec 2021 20:37:01 GMT
+127.0.0.1
+python.png
+404
+
+Fri, 17 Dec 2021 20:37:20 GMT
+127.0.0.1
+home.html
+200
+
+Fri, 17 Dec 2021 20:37:20 GMT
+127.0.0.1
+python.png
+200
+
+Fri, 17 Dec 2021 20:38:25 GMT
+127.0.0.1
+home.html
+200
+
+Fri, 17 Dec 2021 20:38:25 GMT
+127.0.0.1
+hacker.png
+200
+
+Fri, 17 Dec 2021 20:38:26 GMT
+127.0.0.1
+home.html
+200
+
+Fri, 17 Dec 2021 20:38:28 GMT
+127.0.0.1
+hacker.png
+200
+
+Fri, 17 Dec 2021 20:38:28 GMT
+127.0.0.1
+index.html
+200
+
+Fri, 17 Dec 2021 20:38:29 GMT
+127.0.0.1
+home.html
+200
+
+Fri, 17 Dec 2021 20:38:34 GMT
+192.168.1.33
+index.html
+200
+
+Fri, 17 Dec 2021 20:38:39 GMT
+127.0.0.1
+home.html
+200
+
+Fri, 17 Dec 2021 20:38:39 GMT
+127.0.0.1
+hacker.png
+200
+
+Fri, 17 Dec 2021 20:40:06 GMT
+127.0.0.1
+try.html
+404
+
